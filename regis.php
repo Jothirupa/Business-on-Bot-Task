@@ -10,12 +10,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     echo 'Username: '.$fname. '<br> pass: '.$password;
     echo "<script>console.log('In registration'".$fname." );</script>";
-
-    // $host = "3.14.1";
-    // $servername = "sut";
-    // $serverpassword = "come@123";
-    // $dbname = "te";
-
     $host = "sql12.freesqldatabase.com";
     $servername = "sql12644465";
     $serverpassword = "W8lyKGYc7e";
