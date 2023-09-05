@@ -1,18 +1,10 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "<script>console.log('In PHP' );</script>";
-    // include 'dbConnect.php';
-    // $conn = OpenCon();
+    
 
     $username = $_POST["username"];
     $password = $_POST["password"];
-
-    // echo 'Username: '.$username. '<br> pass: '.$password;
-
-    // $host = "3.14.";
-    // $servername = "skt";
-    // $serverpassword = "ome@123";
-    // $dbname = "test_db";
 
     $host = "sql12.freesqldatabase.com";
     $servername = "sql12644465";
