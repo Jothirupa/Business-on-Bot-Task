@@ -1,9 +1,4 @@
 <?php
-    //$host = "3.13.172";
-    //$servername = "sukt";
-    //$serverpassword = "ome@123";
-    //$dbname = "tesdb";
-
     $host = "sql12.freesqldatabase.com";
     $servername = "sql12644465";
     $serverpassword = "W8lyKGYc7e";
