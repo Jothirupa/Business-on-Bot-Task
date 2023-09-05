@@ -1,0 +1,23 @@
+.form {
+    background: #1ea3d27a;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+  }
+
+#ul{
+    list-style-type: none;
+}
